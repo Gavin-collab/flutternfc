@@ -67,7 +67,7 @@ class _writePage extends State<writePage> {
             
             pageButton(mediaH / 10, mediaW * 0.35, () {
               _write(context);
-            }, "Pay"),
+            }, "Write"),
           ],
         ),
       ),
